@@ -1,5 +1,5 @@
 {
-  "name": "node-rtsp-recorder",
+  "name": "node-rtsp-recorder-hls",
   "version": "1.0.4",
   "description": "RTSP Stream Recorder",
   "main": "src/index.js",
